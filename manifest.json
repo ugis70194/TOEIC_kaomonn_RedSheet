@@ -4,7 +4,7 @@
     "manifest_version": 2,
     "description": "hide and display choises",
     "content_scripts": [{
-      "matches": ["https://kakomonn.com/TOEIC/pt/15001/", "https://kakomonn.com/TOEIC/pt/15002/"],
+      "matches": ["https://kakomonn.com/TOEIC/pt/15001/", "https://kakomonn.com/TOEIC/pt/15002/", "https://kakomonn.com/TOEIC/srd/15002"],
       "js": [
         "content.js"
       ]
